@@ -1,3 +1,0 @@
-name: ankush
-country: india,canada
-branch:cse
